@@ -4,11 +4,12 @@
 
 <p align="center">Projeto de landing page seguindo o conceito de uma plataforma de treinos exclusivos.</p>
 
-## Conceitos utilizados
+## Conceitos em destaque
 - HTML semântico
+- Box Model
 - Flexbox
-- Customização de fontes
-- Estilização de tipografia no CSS
+- Utilização do DevTools
+- Acessibilidade no HTML
 
 ## Principais tecnologias
 

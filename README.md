@@ -12,10 +12,10 @@ Esse repositório contêm todos os projetos e desafios que fiz, listados abaixo.
 
 ## Lista de projetos
 
-- [Projeto 01](projetos/projeto-01/)
-- [Treine.me](projetos/projeto-02/)
+1. [Móveis customizados](projetos/projeto-01/)
+2. [Treine.me](projetos/projeto-02/)
 
 ## Lista de desafios
 
-- [Desafio 01](desafios/desafio-01)
-- [Desafio 02](desafios/desafio-02)
+1. [Flutuar.com](desafios/desafio-01)
+2. [Rocket.sect](desafios/desafio-02)
